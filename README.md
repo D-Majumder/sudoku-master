@@ -4,7 +4,7 @@ A responsive, interactive web-based Sudoku game.
 
 ## Live demo
 
-https://d-majumder.github.io/Sudoku-Master/
+https://d-majumder.github.io/sudoku-master/
 
 ## Overview
 
@@ -27,8 +27,8 @@ HTML, CSS, and JavaScript (`index.html`, `style.css`, `script.js`).
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/Sudoku-Master.git
-cd Sudoku-Master
+git clone https://github.com/D-Majumder/sudoku-master.git
+cd sudoku-master
 ```
 
 Open `index.html` in a browser, or serve the folder with any static file server.
