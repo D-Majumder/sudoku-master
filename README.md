@@ -1,44 +1,38 @@
-<h1 align="center" id="title">Sudoku-Master</h1>
+# Sudoku Master
 
-<p align="center"><img src="https://socialify.git.ci/D-Majumder/Sudoku-Master/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+A responsive, interactive web-based Sudoku game.
 
-<p id="description">Sudoku Master 2025 Sudoku Master 2025 is a modern responsive and interactive web-based Sudoku game built entirely with HTML and CSS. This project focuses on demonstrating robust front-end development skills.</p>
+## Live demo
 
-<p align="center"><img src="https://img.shields.io/badge/Suduko_Master-red" alt="shields"></p>
+https://d-majumder.github.io/Sudoku-Master/
 
-<h2>🚀 Demo</h2>
+## Overview
 
-[https://d-majumder.github.io/Sudoku-Master/](https://d-majumder.github.io/Sudoku-Master/)
+Sudoku Master is a browser-based Sudoku game with a 9x9 board, input validation, hints, and a light/dark theme toggle.
 
-  
-  
-<h2>🧐 Features</h2>
+## Features
 
-Here're some of the project's best features:
+- **Dynamic Sudoku board** — a 9x9 grid layout that visually separates 3x3 blocks.
+- **User interaction** — input numbers, highlight selected cells, and get visual feedback for correct or incorrect entries.
+- **Theming** — a light/dark mode toggle.
+- **Responsive design** — optimized for desktops and mobile phones.
+- **Game controls** — start a new game, check the solution, reset the current puzzle, and get hints.
+- **Game statistics & leaderboard** — tracks puzzles completed, fastest time, and total game time with a simple leaderboard display.
+- **Customization options** — change the board's font style and size.
 
-*   Dynamic Sudoku Board: A 9x9 grid layout that visually separates 3x3 blocks.
-*   User Interaction: Allows users to input numbers highlights selected cells and provides visual feedback for correct or incorrect entries.
-*   Theming: Includes a light/dark mode toggle for a personalized user experience.
-*   Responsive Design: Optimized for seamless play across various devices from desktops to mobile phones.
-*   Game Controls: Features buttons for starting a new game checking the solution resetting the current puzzle and getting hints.
-*   Game Statistics & Leaderboard: Tracks puzzles completed fastest time and total game time with a simple leaderboard display.
-*   Customization Options: Users can change the board's font style and size for a tailored look.
-*   Pure HTML & CSS: Emphasizes advanced CSS techniques for layout styling and interactive elements without relying on JavaScript for core UI/UX features (though JavaScript would be integrated for game logic in a full application).
+## Tech stack
 
-<h2>🛠️ Installation Steps:</h2>
+HTML, CSS, and JavaScript (`index.html`, `style.css`, `script.js`).
 
-<p>1. Download The Zip</p>
+## Setup
 
-<p>2. Run it on VS Code Editor</p>
+```bash
+git clone https://github.com/D-Majumder/Sudoku-Master.git
+cd Sudoku-Master
+```
 
-  
-  
-<h2>💻 Built with</h2>
+Open `index.html` in a browser, or serve the folder with any static file server.
 
-Technologies used in the project:
+## License
 
-*   Pure Java Script
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the GNU
+This project is licensed under the **GNU General Public License v3.0**. See [LICENSE](./LICENSE) for the full text.
